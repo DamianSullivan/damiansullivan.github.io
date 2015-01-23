@@ -1,0 +1,130 @@
+Damian Sullivan
+Software Engineer 
+	
+3338 W. Addison #2
+Chicago, IL, 60618
+Cell Phone: 872-301-6507
+E-mail: djcsdjcs@gmail.com
+GitHub: http://dsullivan.github.io
+
+
+Objective
+	To find opportunities for solving difficult and rewarding software architecture challenges.
+
+
+Professional Experience
+
+Software Engineer
+Google, Chicago, IL, March 2008 – Present (6 years)
+* Ad Forecasting
+   * Analyze 40 billion record per day datasets with Flume (Java) /MapReduces (C++)/Dremel (SQL) and devise new tools for publishers to better monetize their traffic.
+   * API servers in C++ wrapping forecast algorithms for wider Google usage.
+   * Lead Design: Scaled Forecasting, XAds, AdExchange Backfill Forecasting for Video Ads.
+   * Presentations: Life of a Ad Request, Video Backfill: How does it work?
+* AdMob
+   * Key iOS developer on a 6 person team.
+   * Pretty much all iPhones run some version of code I’ve written.
+   * Peer bonuses for the “best documentation ever” on the Admob API.
+   * Develop crazy test apps to really drill down and test our mobile code.
+   * Wrote 10x more test code than actual code.
+   * Objective C readability.
+* LiveCPM/AdMeld
+   * Wrote Groovy scripts to screen-scrape third party networks to get the true value of an ad on Ad Exchange.
+   * APIs in Java/Guice to handle data ingestion.
+   * Successfully migrated legacy AdMeld system to Google platform.
+* Google Affiliate Network
+   * Billing and Payments: Wrote critical end-of-month payment software handling $14M per month.
+   * Member of the backend data engineering team for Google Affiliate Network. 
+   * Migration of company data from a legacy platform (Oracle database/LAMP stack) to Google Bigtables / Megastore using ETL files / Java.
+   * Aggregation of legacy data using Java with Bigtable / Map-Reduce for Google Analytics.
+   * Successfully migrated Great Plains accounting system to Google’s AdSense platform.
+   * Built reporting infrastructure for Connect Commerce users.
+
+
+Sr. Software Engineer
+DoubleClick, Chicago, IL, July 2006 – June 2008 (1.75 years)
+* DB2 to Oracle Migration project.
+* Design / Architect role for Affiliate fee processing system.
+* Ad Network Compliance (Spyware Scanners using VMWare as infected hosts and recording the traffic through a proxy). 
+* Connect commerce development: Ad UI  / Reports using Mason, Perl, Subversion, Apache, and IBM DB2. 
+* Served as mentor and conducted code reviews.
+* Conducted production releases of Connect Commerce.
+
+
+Software Engineering Manager 
+ValueClick, Westlake Village, CA, June 2004 - June 2006 (2 years)
+* Managed a team of 4 Software Engineers (Perl / backend / web). 
+* Managed ValueClick's Publisher product. Clients include Bloomberg, Wachovia, Showtime, US Tennis, and LiveDoor Japan.
+* Coordinated Software releases, conducted code reviews, Created and Negotiated design requirements, responded to issues and emergencies. 
+* Coordinated software projects with teams in San Francisco, Tokyo, and London.
+* Led the integration of Valueclick's reporting infrastructure with Mediaplex 
+* Led Valueclick’s MySQL to Oracle migration. 
+* Conducted over 160 technical interviews. 
+* Built Valueclick Media's Publisher Portal product. 
+
+
+Software Engineer
+Napster/MP3.com, San Diego, CA, June 2000 - June 2004 (4 years)
+* Developed payment processing system.
+* Implemented /developed software to secure approximately 10 million credit cards. 
+* Developed security policies to be used in production.
+* The credit card processing software received VISA CISP compliance ensuring the security of cardholder data. 
+* Planning, developing, and releasing subscriptions and payment software. 
+* PressPlay subscription/payment API server.
+* Artist Cash System: Developed as virtual money enabling mp3.com artists to spend their royalty checks on products, saving $3M overall.
+* Emusic.com subscription system that handled approximately 100K users. 
+* PressPlay payment API server: Wrote and designed the server to handle customer creation and management, subscription signups, and credit card handling. 
+* Gladiator Credit Card processor: A highly secure interface to credit card processing. 
+
+
+Software Engineer
+Wikipedia (Bomis), San Diego, CA, Mar 1999 - Jun 2000
+* First employee of Jimmy Wales.
+* Wrote first versions of what was to become Wikipedia.
+* Helped build startup from building the desks to crimping Cat5 cable.
+
+
+Programming Languages
+* Java
+* C++ (but no one is proficient in C++)
+* Perl
+* Objective C
+* Python
+* Ada (more of a hobby)
+* SQL (Dremel/Oracle/DB2/Sybase/Mysql variants)
+
+Software Repositories
+* Git
+* Perforce
+* Subversion (my current boss is the author of svn)
+* CVS
+
+Web Platforms
+* Google Web Toolkit (GWT)
+* AngularJS
+* LAMP (Linux/Apache/MySQL/P[erl|ython|PHP])
+	Operating 
+
+Systems
+* Fedora Core / Red Hat Enterprise / Ubuntu
+* OpenBSD
+* Ubuntu
+* Solaris
+* Cluster (cloud) Computing Platforms
+	* Google Compute Engine
+	* Amazon Web Services
+	* MapReduce/Hadoop on bare metal
+	* Experimenting with:
+		* Kubernetes
+		* Apache Mesos
+		* Docker
+		* Ubuntu Core
+
+Education
+* University of California San Diego, August 1999 - May 2002 
+* Porterville Community College, August 1997 - May 1999 
+
+Honors and Awards
+* Tulare County Builders Assn. Scholarship for electrical eng., June 1999 
+* Breakfast Lions scholarship, Jun 1999 
+* AARP Scholarship for transfer students., Jun 1999
